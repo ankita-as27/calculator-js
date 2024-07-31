@@ -1,2 +1,2 @@
-!HTML,CSS and javascript
+!Calculator using javascript
 
